@@ -1,0 +1,24 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+backend/venv/
+
+# Env
+.env
+
+# Chroma
+chroma_data/
+
+# Uploads
+backend/uploads/
+
+# IDE
+.vscode/
+
+# Streamlit
+.streamlit/
+```
